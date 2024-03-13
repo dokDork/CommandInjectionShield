@@ -4,8 +4,8 @@
   
 ## Description
 **CommandInjectionScript** is a script created to automate a specific penetration test phase: the command injection phase. if an attacker suspects that a given parameter on a web page may be subject to a command injection attack (xss, sql, command, ssti, LFI, RFI, etc) then he can use this script to greatly speed up the testing phase. 
-This tool has been integrated into siteSniper.
-[siteSniper](https://github.com/dokDork/SiteSniper)
+This tool has been integrated into 
+[siteSniper](https://github.com/dokDork/SiteSniper).
 
 
   
