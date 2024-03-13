@@ -1,6 +1,6 @@
 # SiteSniper
 [![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)  
-<img src="https://github.com/dokDork/CommandInjectionShield/raw/main/images/siteSniper.png" width="250" height="250">  
+<img src="https://github.com/dokDork/CommandInjectionShield/raw/main/images/CommandInjectionGuard.jpeg" width="250" height="250">  
   
 ## Description
 **CommandInjectionScript** is a script created to automate a specific penetration test phase: the command injection phase. if an attacker suspects that a given parameter on a web page may be subject to a command injection attack (xss, sql, command, ssti, LFI, RFI, etc) then he can use this script to greatly speed up the testing phase. 
